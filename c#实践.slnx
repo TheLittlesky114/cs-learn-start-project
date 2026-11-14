@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="入门实践/入门实践.csproj" />
+  <Project Path="必备知识点_控制台相关/必备知识点_控制台相关.csproj" />
+  <Project Path="必备知识点_控制台相关练习题/必备知识点_控制台相关练习题.csproj" />
+  <Project Path="必备知识点_随机数/必备知识点_随机数.csproj" />
+  <Project Path="必备知识点_随机数练习题/必备知识点_随机数练习题.csproj" />
+</Solution>
